@@ -43,4 +43,5 @@ void stat(const double A[],int N,double B[]){
         if (min > A[i]) min = A[i];
     }
     B[5] = min;
+
 }
